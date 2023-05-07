@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/carledwinrigaud/">Software Enginner/Cybersecurity Professional</a>
 
 <h2> 💬 Introduction </h2>
-As a passionate and dedicated cybersecurity professional, I am committed to safeguarding vulnerable individuals and organizations from malicious threat actors. My enthusiasm for the industry is fueled by the ever-evolving landscape of cybersecurity, which provides me with the opportunity to continuously learn, adapt, and collaborate with others in pursuit of a common goal. With a strong foundation in technical knowledge and a keen interest in emerging trends, my focus is on implementing innovative solutions to address complex security challenges. By combining my drive for excellence with a collaborative spirit, I strive to make a meaningful impact in the cybersecurity field and contribute to the protection of our digital world.
+As a passionate cybersecurity professional, I am committed to safeguarding vulnerable individuals and organizations through continuous learning, collaboration, and innovative solutions to address complex security challenges.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
