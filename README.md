@@ -14,7 +14,7 @@ As a passionate cybersecurity professional, I am committed to safeguarding vulne
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> Certifications:</h2>
-  - <a href="https://www.credly.com/badges/af327eb5-e78a-409c-bced-596d1355e9f1/public_url/">Certified in Cybersecurity</a> <br>
+  - <a href="https://www.credly.com/badges/af327eb5-e78a-409c-bced-596d1355e9f1/public_url/">Certified in Cybersecurity - Issued by (ISC)²</a> <br>
   - <a href "">Google Cybersecurity Professional</a>
 
 <!--
